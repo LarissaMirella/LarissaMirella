@@ -51,7 +51,7 @@ Gosto de aprender coisas novas, resolver problemas e descobrir como os dados pod
 
 03 — AREAS OF INTEREST
 
-## `03` — ÁREAS DE INTERESSE
+
 
 <div align="center">
 
