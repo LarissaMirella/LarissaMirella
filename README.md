@@ -1,6 +1,6 @@
 <div align="center">
 
-◈ SYSTEM PROFILE — LARISSA MIRELLA
+
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A00F5,50:8A2BE2,100:00D9FF&height=220&section=header&text=LARISSA%20MIRELLA&fontSize=42&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40&desc=DATA%20%7C%20TECHNOLOGY%20%7C%20INNOVATION&descAlignY=60&descSize=15" width="100%"/>
 
