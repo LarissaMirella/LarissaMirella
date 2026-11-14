@@ -51,35 +51,18 @@ Gosto de aprender coisas novas, resolver problemas e descobrir como os dados pod
 
 03 — AREAS OF INTEREST
 
+## `03` — ÁREAS DE INTERESSE
+
 <div align="center">
 
-Area
-
-Interest
-
-📊
-
-Data Analytics
-
-📈
-
-Business Intelligence
-
-🤖
-
-Artificial Intelligence
-
-🐍
-
-Python & Data Analysis
-
-🗄️
-
-SQL & Databases
-
-💻
-
-Software Development
+| | |
+|:---:|:---|
+| 📊 | Análise de Dados |
+| 📈 | Inteligência de Negócios |
+| 🤖 | Inteligência Artificial |
+| 🐍 | Python e Análise de Dados |
+| 🗄️ | SQL e Bancos de Dados |
+| 💻 | Desenvolvimento de Software |
 
 </div>
 
