@@ -61,17 +61,37 @@ Gosto de aprender coisas novas, resolver problemas e descobrir como os dados pod
 
 04 — PROJETOS
 
-## ⭐ Projeto em destaque
+## ⭐ Projetos em destaque
 
 **[Assistente de Contas a Pagar com IA](https://github.com/LarissaMirella/contas-a-pagar-ia)**
+
 Python · Claude API · Power BI
 
 Lê notas fiscais, faturas e boletos em PDF com IA, valida CNPJ, duplicidades e valores atípicos e gera alertas de vencimento e um dashboard de fluxo de caixa.
+
 Em 31 documentos fictícios de teste: 100% de acurácia e tempo de lançamento de 33,1 min para 4,6 min (-86%).
 
 <div align="center">
 
 <img src="https://raw.githubusercontent.com/LarissaMirella/contas-a-pagar-ia/main/docs/img/dashboard.png" width="90%" alt="Dashboard de Contas a Pagar no Power BI"/>
+
+</div>
+
+## 🤖 Projeto
+
+**[Ata Pronta - I.A](https://github.com/LarissaMirella/ata-pronta)**
+
+Python · Claude API · Gemini API
+
+Aplicação que utiliza Inteligência Artificial para transformar anotações de reuniões, aulas e grupos de estudos em atas organizadas, com resumos, decisões, tarefas e prazos. Também permite gerar e-mails de acompanhamento, facilitando a organização e o registro de informações.
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/LarissaMirella/ata-pronta/main/docs/print.png" width="90%" alt="Resultado da aplicação Ata Pronta"/>
+
+</div>
+
+<div align="center">
 
 ◈ EM ESTUDO
 
